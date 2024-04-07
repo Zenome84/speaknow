@@ -1,8 +1,9 @@
 ## SpeakNow Home Assignment - ToC
 
 This body of work is designed to demo different coding style, knowledge, and analysis. It contains:
-* A report summarizing the Home Assignment is in [report.pptx](./report.pptx)
+* A PowerPoint report summarizing the Home Assignment is in [report.pptx](./report.pptx)
     * In the report I also discuss scaling these results.
+    * Can also be opened with Google Slides.
 * Under [src](./src) you will find the code to run inference on the scoring models:
     * [evaluator.py](./src/evaluator.py): Parent class to run Whisper fine-tuned models - containing generic rating and confidence measures.
     * [fluency.py](./src/fluency.py): Fluency rating.
