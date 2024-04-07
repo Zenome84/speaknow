@@ -1,0 +1,5 @@
+data/*.mp3
+.vscode
+SpeakNow_test_data.csv
+whisper*
+__pycache__
